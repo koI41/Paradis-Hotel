@@ -29,9 +29,7 @@ The system provides dedicated modules for:
 * Active booking monitoring
 * Quick action shortcuts
 
-**Screenshot:**
-
-<!-- INSERT DASHBOARD SCREENSHOT HERE -->
+<img width="1247" height="808" alt="image" src="https://github.com/user-attachments/assets/2495c5b1-6a49-4727-833f-18414c8aee29" />
 
 ---
 
@@ -42,10 +40,9 @@ The system provides dedicated modules for:
 * Set room pricing
 * Track room availability
 * Filter rooms by status
+* Cancelling room allotment
 
-**Screenshot:**
-
-<!-- INSERT ROOM MANAGEMENT SCREENSHOT HERE -->
+<img width="1248" height="956" alt="image" src="https://github.com/user-attachments/assets/211d873d-b966-442b-a517-61e514425052" />
 
 ---
 
@@ -57,9 +54,9 @@ The system provides dedicated modules for:
 * Automatic room occupancy updates
 * Active booking monitoring
 
-**Screenshot:**
 
-<!-- INSERT BOOKING MANAGEMENT SCREENSHOT HERE -->
+<img width="1238" height="789" alt="image" src="https://github.com/user-attachments/assets/d16951f0-4445-4704-af3f-a6eacbc5cbf0" />
+
 
 ---
 
@@ -71,9 +68,9 @@ The system provides dedicated modules for:
 * Revenue tracking
 * One-click checkout workflow
 
-**Screenshot:**
 
-<!-- INSERT BILLING SCREENSHOT HERE -->
+![Uploading image.png…]()
+
 
 ---
 

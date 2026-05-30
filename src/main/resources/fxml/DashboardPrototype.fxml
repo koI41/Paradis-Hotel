@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Separator?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox spacing="12.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+    <padding>
+        <Insets top="20.0" right="20.0" bottom="20.0" left="20.0" />
+    </padding>
+
+    <Label text="PARADIS HOTEL MANAGEMENT SYSTEM">
+        <font>
+            <Font size="22.0" />
+        </font>
+    </Label>
+
+    <Label text="Dashboard Prototype (Scene Builder)" />
+    <Separator />
+
+    <HBox spacing="10.0">
+        <Label text="Total Rooms:" />
+        <Label text="120" />
+    </HBox>
+
+    <HBox spacing="10.0">
+        <Label text="Available Rooms:" />
+        <Label text="78" />
+    </HBox>
+
+    <HBox spacing="10.0">
+        <Button text="Room Management" />
+        <Button text="Bookings" />
+        <Button text="Billing" />
+    </HBox>
+</VBox>
